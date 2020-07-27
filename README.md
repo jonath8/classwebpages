@@ -6,6 +6,7 @@ Thanks to Prof. Phil Lundrigan for the initial template.  Thanks to Jonathan Nel
 Prof. Brent Nelson  
 July 2020
 
+
 # Walkthrough to Build a New Class
 
 ## The Big Picture
